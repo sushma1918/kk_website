@@ -2495,3 +2495,19 @@ img {
     font-size: 100px;
   }
 }
+/* Whatsapp Css */
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+.whatsapp-icon img {
+  width: 50px; /* Adjust the size of the icon */
+  height: 50px;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
