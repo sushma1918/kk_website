@@ -543,7 +543,7 @@ img {
   width: 100%;
 }
 .mu-title h2 {
-  color: #000;
+  color: #d41e1e;
   margin-bottom: 10px;
   text-transform: uppercase;
 }
@@ -2495,7 +2495,7 @@ img {
     font-size: 100px;
   }
 }
-/* Whatsapp Css */
+/* Whatsapp Css
 .whatsapp-icon {
   position: fixed;
   bottom: 20px;
