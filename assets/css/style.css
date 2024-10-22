@@ -707,7 +707,7 @@ img {
 }
 
 .mu-latest-course-single {
-  background-color: #fff;
+  background-color: #e6b512;
   display: inline;
   float: left;
   width: 100%;
@@ -752,11 +752,11 @@ img {
   padding: 15px;
 }
 .mu-latest-course-single .mu-latest-course-single-content h4 {
-  color: #333;
+  color: #000000;
   line-height: 1.4;
 }
 .mu-latest-course-single .mu-latest-course-single-content h4 a {
-  color: #333;
+  color: #000000;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
