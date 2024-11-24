@@ -1818,6 +1818,9 @@ img {
   float: left;
   width: 100%;
 }
+.mu-contact-content iframe {
+  max-width: 100%;
+}
 #mu-contact .mu-contact-area .mu-contact-content {
   display: inline;
   float: left;
